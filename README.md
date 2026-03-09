@@ -31,17 +31,17 @@
 ## 🗺️ Roadmap Overview
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                     AI PRODUCT ENGINEER LEARNING PATH                        │
+┌────────────────────────────────────────────────────────────────────────────┐
+│                     AI PRODUCT ENGINEER LEARNING PATH                      │
 ├─────────────┬──────────────────────────────────────────────────────────────┤
-│  PHASE 1    │  Programming Foundations           ← Start Here               │
-│  PHASE 2    │  Data & Machine Learning                                       │
-│  PHASE 3    │  Deep Learning                                                 │
-│  PHASE 4    │  NLP & Large Language Models                                   │
-│  PHASE 5    │  Generative AI Application Dev     ← Core Product Work        │
-│  PHASE 6    │  AI System Architecture                                        │
-│  PHASE 7    │  AI Deployment & MLOps                                         │
-│  PHASE 8    │  AI Product Development             ← Ship Real Products       │
+│  PHASE 1    │  Programming Foundations           ← Start Here              │
+│  PHASE 2    │  Data & Machine Learning                                     │
+│  PHASE 3    │  Deep Learning                                               │
+│  PHASE 4    │  NLP & Large Language Models                                 │
+│  PHASE 5    │  Generative AI Application Dev     ← Core Product Work       │
+│  PHASE 6    │  AI System Architecture                                      | 
+│  PHASE 7    │  AI Deployment & MLOps                                       │
+│  PHASE 8    │  AI Product Development             ← Ship Real Products     │
 └─────────────┴──────────────────────────────────────────────────────────────┘
 ```
 
